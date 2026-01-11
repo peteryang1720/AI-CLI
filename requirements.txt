@@ -1,0 +1,6 @@
+# Project: AI CLI for Linux Server Management
+# File: ai-cli/requirements.txt
+dashscope==1.15.0
+click==8.1.7
+psutil==5.9.8
+python-dotenv==1.0.0
